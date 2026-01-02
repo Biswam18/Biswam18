@@ -1,5 +1,21 @@
 # 💫 About Me:
-Building data analysis & machine learning projects using Python, Pandas, NumPy, and scikit-learn to strengthen my practical skills.<br>Beginner-friendly Data Science, Machine Learning, Python automation, and real-world data analysis projects.<br>Improving model performance, real-world problem framing, and best practices in ML deployment.<br>Data Science, Machine Learning, SQL, Statistics, and basics of Generative AI.<br>Python, data cleaning, exploratory data analysis (EDA), SQL queries, and basic machine learning concepts.<br>I enjoy turning raw data into meaningful insights and believe consistency beats motivation every time 😄
+🔭 **I’m currently working on**  
+Building data analysis & machine learning projects using Python, Pandas, NumPy, and scikit-learn to strengthen my practical skills.
+
+👯 **I’m looking to collaborate on**  
+Beginner-friendly Data Science, Machine Learning, Python automation, and real-world data analysis projects.
+
+🤝 **I’m looking for help with**  
+Improving model performance, real-world problem framing, and best practices in ML deployment.
+
+🌱 **I’m currently learning**  
+Data Science, Machine Learning, SQL, Statistics, and basics of Generative AI.
+
+💬 **Ask me about**  
+Python, data cleaning, exploratory data analysis (EDA), SQL queries, and basic machine learning concepts.
+
+⚡ **Fun fact**  
+I enjoy turning raw data into meaningful insights and believe consistency beats motivation every time 😄
 
 
 ## 🌐 Socials:
